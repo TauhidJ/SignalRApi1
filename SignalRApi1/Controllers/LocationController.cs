@@ -6,7 +6,7 @@ using SignalRApi1.Models;
 
 namespace SignalRApi1.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/location")]
     [ApiController]
     public class LocationController : ControllerBase
     {
